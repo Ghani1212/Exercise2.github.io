@@ -1,0 +1,30 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.button{
+    margin: auto; 
+    display: block;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px rgb(220, 220, 220);
+            background: rgb(209, 255, 200);
+            color: rgb(94, 55, 54);
+            box-shadow: 1px 1px 2px #c69b7b;
+            border-radius: 10px;
+            pad: 3px 10px;
+            cursor: pointer;
+}
